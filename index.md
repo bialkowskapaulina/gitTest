@@ -5,4 +5,4 @@
 - [Zakładanie własnej strony GitHubPages](github-pages.md)
 - `TODO Narzędzia pomocnicze`
 dgvb fghf
-m, l 
+m, l hgjljv
