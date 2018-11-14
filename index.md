@@ -4,3 +4,4 @@
 - [Konfiguracja podstawowa](config.md)
 - [Zakładanie własnej strony GitHubPages](github-pages.md)
 - `TODO Narzędzia pomocnicze`
+dgvb 
